@@ -1,2 +1,7 @@
 # priority_scheduling
-repository
+//repository
+#include<fcntl.h>
+#include<stdio.h>
+int main()
+{
+int p;
